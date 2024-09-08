@@ -2,6 +2,8 @@ import os
 import csv
 import datetime
 
+# bla bla 
+
 def title():
     line_1 = "------------------------------"
     title  = " Contact Managemanet System "
